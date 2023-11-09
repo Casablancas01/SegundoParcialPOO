@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SegundoParcial2023.Consola/1.0.0": {
+        "dependencies": {
+          "SegundoParcial2023.Datos": "1.0.0",
+          "SegundoParcial2023.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "SegundoParcial2023.Consola.dll": {}
+        }
+      },
+      "SegundoParcial2023.Datos/1.0.0": {
+        "dependencies": {
+          "SegundoParcial2023.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "SegundoParcial2023.Datos.dll": {}
+        }
+      },
+      "SegundoParcial2023.Entidades/1.0.0": {
+        "runtime": {
+          "SegundoParcial2023.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SegundoParcial2023.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SegundoParcial2023.Datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SegundoParcial2023.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

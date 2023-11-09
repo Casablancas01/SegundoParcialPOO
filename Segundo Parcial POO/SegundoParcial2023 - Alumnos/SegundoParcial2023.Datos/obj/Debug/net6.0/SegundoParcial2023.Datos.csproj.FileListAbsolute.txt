@@ -1,0 +1,45 @@
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.AssemblyInfoInputs.cache
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.AssemblyInfo.cs
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.csproj.CoreCompileInputs.cache
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Datos.deps.json
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Datos.dll
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Datos.pdb
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Entidades.dll
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Entidades.pdb
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.csproj.AssemblyReference.cache
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.csproj.CopyComplete
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.dll
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\refint\SegundoParcial2023.Datos.dll
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.pdb
+D:\Codigo\POO 2023\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\ref\SegundoParcial2023.Datos.dll
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Datos.deps.json
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Datos.dll
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Datos.pdb
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Entidades.dll
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Entidades.pdb
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.csproj.AssemblyReference.cache
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.AssemblyInfoInputs.cache
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.AssemblyInfo.cs
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.csproj.CoreCompileInputs.cache
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.csproj.CopyComplete
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.dll
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\refint\SegundoParcial2023.Datos.dll
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.pdb
+D:\Cátedras 2023\POO\Evaluaciones\SegundoParcial2023\SegundoParcial2023.Datos\obj\Debug\net6.0\ref\SegundoParcial2023.Datos.dll
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Datos.deps.json
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Datos.dll
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Datos.pdb
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Entidades.dll
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\bin\Debug\net6.0\SegundoParcial2023.Entidades.pdb
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.csproj.AssemblyReference.cache
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.AssemblyInfoInputs.cache
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.AssemblyInfo.cs
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.csproj.CopyComplete
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.dll
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\obj\Debug\net6.0\refint\SegundoParcial2023.Datos.dll
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\obj\Debug\net6.0\SegundoParcial2023.Datos.pdb
+C:\Users\Lamont Coleman\Desktop\Segundo Parcial POO\SegundoParcial2023 - Alumnos\SegundoParcial2023.Datos\obj\Debug\net6.0\ref\SegundoParcial2023.Datos.dll
